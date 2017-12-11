@@ -1,2 +1,2 @@
 # Strawberry
-run k-means on strawberries
+Image Compression with K-Means clustering.ipynb 
